@@ -45,16 +45,18 @@
 [🔗 View Repository](https://github.com/yourusername/nearabl-webapp) 
 - Trained models: Logistic Regression, Decision Trees, KNN  
 - Used Airbnb and World Happiness datasets for supervised and unsupervised learning  
-- Applied clustering, scaling, and visualized results with Matplotlib  
-###🚀 Space Shooter Game (Unity Bootcamp)
-Unity + C#
+- Applied clustering, scaling, and visualized results with Matplotlib
+  
+### 🚀 Space Shooter Game (Unity Bootcamp)
+> Unity + C#
 [🔗 View Repository](https://github.com/FreshTaurus/SpaceShooterByXYL.git) 
 Built a 2D space shooter game using Unity and C# with keyboard-based controls and object collision logic
 Implemented enemy spawning, player health system, scoring mechanism, and sound effects
 Integrated visual assets and animations to enhance gameplay and user experience
 Gained hands-on experience with game loops, prefab systems, and real-time debugging in Unity
-###🌊 Ocean Cleanup Awareness Website
-HTML + CSS + JavaScript
+
+### 🌊 Ocean Cleanup Awareness Website
+> HTML + CSS + JavaScript
 [🔗 View Repository](https://github.com/FreshTaurus/ocean-cleanup.git) 
 Designed and developed a responsive website to promote ocean cleanup awareness and sustainability
 Created visually engaging sections using HTML5 and CSS animations to highlight ocean pollution facts
