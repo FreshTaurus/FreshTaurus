@@ -74,7 +74,7 @@ Focused on accessibility and mobile responsiveness to ensure broad user reach
 
 ## 🌐 Connect With Me
 
-- [LinkedIn]:(linkedin.com/in/taylor-l-478880173)
+- [LinkedIn](linkedin.com/in/taylor-l-478880173)
 - [Portfolio](https://your-portfolio-link.com)  
 - ✉️ Email: ny44234@gmail.com
 
