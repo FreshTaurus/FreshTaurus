@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi👋</h1>
 
 <p align="center">
   💻 Software Development Intern @ NeARabl | 🤖 AI/ML Fellow @ Break Through Tech | 🎮 Unity Bootcamp Grad  
@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Computer Science student at **BMCC (CUNY)** — GPA: 4.0  
+- 🎓 Computer Science student at **(CUNY)** — GPA: 4.0  
 - 🌐 Building responsive, real-world web apps with **React**, **TypeScript**, and **AWS S3**  
 - 🤖 Exploring machine learning with **Python**, **scikit-learn**, **Pandas**, and real-world datasets  
 - 📱 Developing iOS apps in **Swift** and mobile games using **Unity + C#**  
