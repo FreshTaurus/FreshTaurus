@@ -28,22 +28,38 @@
 ## 📂 Notable Projects
 
 ### 🏢 Smart Building Web App (Internship @ NeARabl)
-> React + TypeScript + AWS  
+> React + TypeScript + AWS
+[🔗 View Repository](https://github.com/yourusername/nearabl-webapp) 
 - Built user authentication, avatar upload, settings & password features  
 - Implemented dark mode, responsive layout, and accessibility support  
 - Used Git/GitHub for version control and RESTful API integration  
 
 ### 📱 Swift Login + Weather App
-> UIKit + OpenWeatherMap API  
+> UIKit + OpenWeatherMap API
+[🔗 View Repository](https://github.com/FreshTaurus/Nearabl-Swift-Login-Weather-App.git)  
 - Created email/password login flow with validation  
 - Integrated real-time NYC weather display and used Auto Layout for responsiveness  
 
 ### 🤖 Machine Learning Projects (Break Through Tech AI)
-> Jupyter + scikit-learn + Pandas  
+> Jupyter + scikit-learn + Pandas
+[🔗 View Repository](https://github.com/yourusername/nearabl-webapp) 
 - Trained models: Logistic Regression, Decision Trees, KNN  
 - Used Airbnb and World Happiness datasets for supervised and unsupervised learning  
 - Applied clustering, scaling, and visualized results with Matplotlib  
-
+###🚀 Space Shooter Game (Unity Bootcamp)
+Unity + C#
+[🔗 View Repository](https://github.com/FreshTaurus/SpaceShooterByXYL.git) 
+Built a 2D space shooter game using Unity and C# with keyboard-based controls and object collision logic
+Implemented enemy spawning, player health system, scoring mechanism, and sound effects
+Integrated visual assets and animations to enhance gameplay and user experience
+Gained hands-on experience with game loops, prefab systems, and real-time debugging in Unity
+###🌊 Ocean Cleanup Awareness Website
+HTML + CSS + JavaScript
+[🔗 View Repository](https://github.com/FreshTaurus/ocean-cleanup.git) 
+Designed and developed a responsive website to promote ocean cleanup awareness and sustainability
+Created visually engaging sections using HTML5 and CSS animations to highlight ocean pollution facts
+Added interactive features with JavaScript, including image sliders and donation call-to-action buttons
+Focused on accessibility and mobile responsiveness to ensure broad user reach
 ---
 
 ## 📈 GitHub Stats
@@ -56,9 +72,9 @@
 
 ## 🌐 Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)  
+- [LinkedIn](linkedin.com/in/taylor-l-478880173)  
 - [Portfolio](https://your-portfolio-link.com)  
-- ✉️ Email: yourname@example.com
+- ✉️ Email: ny44234@gmail.com
 
 ---
 
